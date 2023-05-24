@@ -1,11 +1,9 @@
 # Hello! I am Rayra Hyasmyn Sena Brasil de Melo! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayra-hyasmym-397b81190/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFcwAG4IT8gwAUVpLV5DGkA)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eenzo_fariasw)
 
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoMoraes-full&show_icons=true&theme=synthwave)
+
+![Rayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayraHy&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMoraes-full&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # Technologies I use on a daily basis! ✍️
